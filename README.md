@@ -15,3 +15,4 @@ Things to note:
 If directly using this product: 
 - Check all blacklists to determine if you would like those to be blacklisted. Some things are formatting-related, others are preferences for states/cities/countries/jobs that I would not want to work in/at.
 - Check the spreadsheet settings to determine if the data is in your correct order and in the correct location
+- Setup your token and credentials as you normally would for a GoogleAPI, there are plenty of tutorials online!
