@@ -10,6 +10,7 @@ Things to note:
   * Incorporate price data for each job type
   * Simplify the Spreadsheet to be easy to read for new users (put it in order)
   * Check the Job application's website HTML to see if the job has expired or no longer accepting applications. If such, remove it from the spreadsheet
+  * Have the option to download the emails as a CSV
  
 If directly using this product: 
 - Check all blacklists to determine if you would like those to be blacklisted. Some things are formatting-related, others are preferences for states/cities/countries that I would not want to work in.
